@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkDJbz6quqHvzRhSHQgohjPsEZEcVMI8QkUUqwL1NSsmBxvilu1uPNfLEsC7CwM/jIeHdtRIJ8H3Id9TrC5iYw==",
+  "success": true,
+  "projectFilePath": "/Users/vanyachernov/Desktop/group/Groups/Groups.csproj",
+  "expectedPackageFiles": [
+    "/Users/vanyachernov/.nuget/packages/mstest.testframework/3.2.2/mstest.testframework.3.2.2.nupkg.sha512",
+    "/Users/vanyachernov/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
